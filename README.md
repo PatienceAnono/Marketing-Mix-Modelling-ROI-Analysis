@@ -192,7 +192,7 @@ Run Kernel → Restart & Run All. The notebook takes about 30–60 seconds — t
 
 **Patience Anono** — Data Analyst & Marketing Analytics Specialist
 
-📧 hello@padataanalytics.com  
+📧 anonopatience@gmail.com  
 🌐 [padataanalytics.com](https://padataanalytics.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/patience-anono-22ab06176/)
 
