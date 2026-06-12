@@ -198,4 +198,3 @@ Run Kernel → Restart & Run All. The notebook takes about 30–60 seconds — t
 
 ---
 
-*Dataset is synthetic, built to mirror real e-commerce marketing data. All methodology — adstock, OLS, Ridge, Hill saturation curves, SLSQP optimisation — is real and production-applicable.*
